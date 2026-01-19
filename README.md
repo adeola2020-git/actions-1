@@ -1,1 +1,2 @@
-# actions-1
+# Exploring Actions
+I will be learning GitHub Actions
